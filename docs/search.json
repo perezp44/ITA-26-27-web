@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "mas-cosas/04_como-entregar-las-tareas-uploader.html",
+    "href": "mas-cosas/04_como-entregar-las-tareas-uploader.html",
+    "title": "Entrega de los trabajos que formen parte de la evaluación continua",
+    "section": "",
+    "text": "Como sabéis, a lo largo del curso os mandaré tareas que formarán parte de la evaluación continua. Algunas de estas tareas serán para resolver en casa y otras se resolverán en el aula."
+  },
+  {
+    "objectID": "mas-cosas/04_como-entregar-las-tareas-uploader.html#footnotes",
+    "href": "mas-cosas/04_como-entregar-las-tareas-uploader.html#footnotes",
+    "title": "Entrega de los trabajos que formen parte de la evaluación continua",
+    "section": "Notas",
+    "text": "Notas\n\nIntentaré enviarlo el lunes por la mañana a primera hora (9:00), pero si me retraso un poco no pasa nada, piensa que solo es arrastar y subir un fichero a una dirección web.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "{{< var my_title_web >}}",
+    "section": "",
+    "text": "Web para alojar los materiales que usaremos en el módulo práctico de ITA (Instrumentos y Técnicas de Aprendizaje, GECO), curso 2026-27, grupo M."
+  },
+  {
+    "objectID": "index.html#materiales",
+    "href": "index.html#materiales",
+    "title": "{{< var my_title_web >}}",
+    "section": "1. Materiales",
+    "text": "1. Materiales\n\nBloque R\n\nSlides 01: Presentación\nSlides 02: Primeros pasos\nSlides 03: R-base\nSlides 04: Importar y exportar datos\nSlides 05: Data munging (A)\nSlides 05: Data munging (B)\nSlides 05: Data munging (C)\nSlides 06: ggplot2\n\n\n\nBloque Excel\n\nSlides (Intro a Excel)\nDatos xlsx para gráficos\n\n\n\nGuiones\n\nGuión 01\n\n\n\nExámenes de muestra\n\nCurso 2024-25 (1ª convocatoria)\nCurso 2024-25 (2ª convocatoria)"
+  },
+  {
+    "objectID": "index.html#logística",
+    "href": "index.html#logística",
+    "title": "{{< var my_title_web >}}",
+    "section": "2. Logística",
+    "text": "2. Logística\n\nEtherpad\nPosit Cloud Project\nAula Virtual del curso"
+  },
+  {
+    "objectID": "index.html#recursos-adicionales",
+    "href": "index.html#recursos-adicionales",
+    "title": "{{< var my_title_web >}}",
+    "section": "4. Recursos adicionales",
+    "text": "4. Recursos adicionales\nPrimero un libro fantástico sobre Ciencia de Datos con R:\n\nR for Data Science (2ª ed). La primera edición está aquí, y la la 1ª ed. en castellano aquí\n\nAdicionalmente, 3 cursos (míos) sobre Ciencia de Datos:\n\nProgramación y manejo de datos con R\nCreación de documentos reproducibles con R y Quarto\nCurso de introducción a R, SFPIE"
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "{{< var my_title_web >}}",
+    "section": "5. Software",
+    "text": "5. Software\n\n\n\n\n\n\n\nEn el curso usaremos principalmente 2 programas: R y RStudio.\nEs muy-muy recomendable venir al curso con tu propio ordenador (trae también un ratón)\nHay que instalarse versiones recientes de los 2 programas. Abajo tienes las instrucciones de instalación\n\n\n\n\n\nSoftware (instalación)\n\n\n\n\n\n\nInstalación de R y RStudio\n\n\n\n\n\n\nEn el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:\nHas de instalar los programas en este orden:\n\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo"
+  },
+  {
+    "objectID": "index.html#más-cosas",
+    "href": "index.html#más-cosas",
+    "title": "{{< var my_title_web >}}",
+    "section": "6. Más cosas",
+    "text": "6. Más cosas\n\nEntrega de trabajos\nDurante el curso, sobre todo las primeras semanas, os mandaré tareas, algunas para resolver en el aula y otras para resolver en casa. Estas tareas, generalmente, formarán parte de la evaluación continua. Abajo tenéis las instrucciones para la entrega de las tareas:\n\nInstrucciones para la entrega de las tareas de la evaluación continua"
+  }
+]

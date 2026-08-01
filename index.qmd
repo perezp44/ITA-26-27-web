@@ -1,0 +1,132 @@
+---
+#title: "ITA 25-26 (grup M; módul practic) "
+toc: true
+link-external-newwindow: true
+---
+
+Web para alojar los materiales que usaremos en el [módulo práctico]{.underline} de ITA (Instrumentos y Técnicas de Aprendizaje, GECO), {{< var my_curso_academico >}}, [grupo M]{.underline}.
+
+<br>
+
+
+## 1. Materiales
+
+#### Bloque R
+
+- [Slides 01: Presentación](./slides/slides_01_presentacion.html){target="_blank"}
+
+- [Slides 02: Primeros pasos](./slides/slides_02_primeros-pasos.html){target="_blank"}
+
+- [Slides 03: R-base](./slides/slides_03_R-base-01_small.html){target="_blank"}
+
+- [Slides 04: Importar y exportar datos](./slides/slides_04_cargar-datos.html){target="_blank"}
+
+- [Slides 05: Data munging (A)](./slides/slides_05A_data-munging.html){target="_blank"}
+
+- [Slides 05: Data munging (B)](./slides/slides_05B_data-munging.html){target="_blank"}
+
+- [Slides 05: Data munging (C)](./slides/slides_05C_data-munging.html){target="_blank"}
+
+- [Slides 06: ggplot2](./slides/slides_06_ggplot2_Aa.html){target="_blank"}
+
+
+#### Bloque Excel
+
+
+- [Slides (Intro a Excel)](./slides/slides_08_intro-a-excel.html){target="_blank"} 
+
+- [Datos xlsx para gráficos](./guiones/ejemplos_graficos.xlsx){target="_blank"}
+
+
+#### Guiones
+
+- [Guión 01](./guiones/guion_01_ITA.zip){target="_blank"}
+
+
+#### Exámenes de muestra
+
+
+- [Curso 2024-25 (1ª convocatoria)](./guiones/ITA_examen_1C.zip){target="_blank"}
+
+- [Curso 2024-25 (2ª convocatoria)](./guiones/ITA_examen_2C.zip){target="_blank"}
+
+
+<br>
+
+## 2. Logística
+
+- [Etherpad](https://etherpad.wikimedia.org/p/pjperez){target="_blank"}
+
+- [Posit Cloud Project](https://posit.cloud/content/8706947)
+
+-  {{< var my_aula_virtual >}}
+
+
+
+<br>
+
+## 4. Recursos adicionales
+
+Primero un libro fantástico sobre Ciencia de Datos con R: 
+
+- [R for Data Science (2ª ed)](https://r4ds.hadley.nz/). La primera edición está [aquí](https://r4ds.had.co.nz/){target="_blank"}, y la la 1ª ed. en castellano  [aquí](https://es.r4ds.hadley.nz/){target="_blank"} 
+
+
+ Adicionalmente, 3 cursos (míos) sobre Ciencia de Datos:  
+ 
+-  {{< var my_curso_BigData >}}
+
+-  {{< var my_curso_quarto_sfpie >}}
+
+-  {{< var my_curso_R_sfpie >}}
+
+
+
+
+<br>
+
+
+
+## 5. Software
+
+::: {.callout-note appearance="minimal" icon="false"}
+
+- En el curso usaremos principalmente **2 programas**: [R](https://cran.r-project.org/){target="_blank"} y [RStudio](https://www.rstudio.com/products/rstudio/download/# download){target="_blank"}. 
+
+- Es muy-muy recomendable venir al curso con **tu propio ordenador** ([trae también un ratón]{.underline})
+
+
+- Hay que instalarse **versiones recientes** de los 2 programas. Abajo tienes las instrucciones de instalación
+
+:::
+
+
+### Software (instalación)
+
+::: {.callout-important collapse="false" appearance="default" icon="false"}
+### Instalación de R y RStudio
+
+- En el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:
+
+- Has de instalar los programas en este orden:
+
+ 1. R: <https://cran.r-project.org/>{target="_blank"}
+
+ 2. RStudio: <https://posit.co/download/rstudio-desktop/>{target="_blank"}
+
+
+- Para ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo
+:::
+
+
+<br>
+
+## 6. Más cosas
+
+### Entrega de trabajos
+
+Durante el curso, sobre todo las primeras semanas, os mandaré tareas, algunas para resolver en el aula y otras para resolver en casa. Estas tareas, generalmente, formarán parte de la evaluación continua. Abajo tenéis las instrucciones para la entrega de las tareas:
+
+- [Instrucciones para la entrega de las tareas de la evaluación continua](./mas-cosas/04_como-entregar-las-tareas-uploader.html){target="_blank"}
+
+<br><br>

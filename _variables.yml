@@ -1,0 +1,30 @@
+email:
+  pedro: pedro@uvv.es
+  juan: juan@gmaillll.com
+
+pedroblog: "[Pedro's blog](https://perezp44.github.io/pjperez.web/01_blog.html)"
+webcurso: "[https://go.uv.es/pjperez/intro.to.quarto](https://perezp44.github.io/intro.to.quarto/){target='blank'}"
+lineanaranja: "<hr color='#EB811B' size=1px width=1580px>"
+my_subtitle: "Módulo práctico de ITA <br> (Grupo M)"
+
+#my_subtitle: "Escribiendo con Quarto <br> (Web del curso [aquí](https://perezp44.github.io/intro.to.quarto.2024/){target='blank'})"
+my_subtitle2: "(Web del curso [aquí](https://perezp44.github.io/intro.to.quarto.2024/){target='blank'})"
+my_curso: "[Escribiendo con R y Quarto](https://perezp44.github.io/intro.to.quarto.2024/){target='blank'}"
+#- my_fecha_slides: 03/07/2005 #- no me funciona
+
+
+
+#- las de abajo hay q cambiarlas cada año ----------- AQUI - AQUI
+my_title_web: "Instrumentos y técnicas de aprendizaje (ITA, GM)"
+my_url_web: https://perezp44.github.io/ITA-26-27-web/
+my_url_repo_github: https://github.com/perezp44/ITA-26-27-web
+my_anyo_web: "© 2026 Pedro J. Pérez"   #- la fecha del footer de la web
+my_curso_academico: "curso 2026-27"
+my_aula_virtual: "[Aula Virtual](https://aulavirtual.uv.es/course/view.php?id=115707){target='_blank'} del curso"
+my_curso_BigData: "[Programación y manejo de datos con R](https://perezp44.github.io/intro-ds-25-26-web/){target='_blank'}"
+my_curso_quarto_sfpie: " [Creación de documentos reproducibles con R y Quarto](https://perezp44.github.io/intro.to.quarto/){target='_blank'}"
+my_curso_R_sfpie: "[Curso de introducción a R, SFPIE](https://perezp44.github.io/intro.R.sfpie/){target='_blank'}"
+
+my_footer_web: "© 2026 Pedro J. Pérez"   #- la fecha del footer de la web
+
+

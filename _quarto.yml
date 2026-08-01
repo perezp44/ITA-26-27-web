@@ -1,0 +1,92 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "mas-cosas/cuestionario-inicial.Rmd" 
+  preview:
+    port: 4444
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+website:
+  #page-navigation: true
+  title: "{{< var my_title_web >}}"
+  favicon: imagenes/uv.jpeg
+  site-url: "{{< var my_url_web >}}"
+  repo-url: "{{< var my_title_web >}}"
+  repo-actions: [edit, issue]
+  repo-branch: main  #- edit page in Github https://github.com/quarto-dev/quarto-cli/discussions/4826
+  repo-link-target: "_blank" #makes issue and edit links open in a new window/tab 
+  #open-graph: true #-https://quarto.org/docs/websites/website-tools.html#twitter-cards
+  #twitter-card:
+  #  creator: "@pjpv4444"
+  #  card-style: summary_large_image
+  
+  navbar:
+    pinned: true
+    background: "#F1F3F4"   # "#F8F8F8"   # "#C0B9A0"  # "#e9e8f0"   #- color de R-ladies    # secondary
+    collapse-below: lg
+    logo: "imagenes/uv.jpeg"
+    #background: primary #- pink
+    left: 
+      - icon: house-door
+        href: index.html
+    right:
+      - icon: github
+        href: https://github.com/perezp44
+      - icon: envelope
+        url: "mailto:pedro.j.perez@uv.es"
+  #page-footer: '© 2024 by PI_NAME <br> This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}}'
+  page-footer:
+    left: "{{< var my_footer_web >}}"
+    #center: "Hecho con [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/perezp44
+      - icon: envelope
+        url: "mailto:pedro.j.perez@uv.es"
+      - text: <i class="ai ai-google-scholar" role="img"></i>
+        href: https://scholar.google.de/citations?user=MFlgHdcAAAAJ&hl=en
+      - text: <i class="ai ai-orcid" role="img"></i>
+        href: https://orcid.org/0000-0001-9375-6330
+
+format:
+  html:
+    page-layout: full
+    theme: 
+      - cosmo #sketchy #slate #- litera  superhero darkly
+      - assets/ember.scss 
+    #   - custom.scss
+    css: 
+      - assets/styles.css
+    toc: true
+    code-line-numbers: true
+    code-copy: true
+    code-overflow: wrap    #- {wrap, scroll}
+    code-fold: show
+    code-tools: false
+    #code-summary: "Show the code"
+    code-link: true
+    link-external-newwindow: true
+    
+lang: en  #- {es, en}
+language: _language-es.yml
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+execute:
+  freeze: true  # re-render only when source changes
+  echo: true
+  message: false
+  warning: false
+  eval: true
+  #cache: true
+  
+#editor: visual
+
+#embed-resources: true
+
+highlight-style: monochrome
+
+#title-block-banner: true  #- {true, false, "#FFDDFF",  "image.jpg"}

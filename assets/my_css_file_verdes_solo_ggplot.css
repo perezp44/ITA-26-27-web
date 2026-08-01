@@ -1,0 +1,14 @@
+/*  ----------------- fichero CSS para las slides verdes xaringan  -------------- */ 
+
+
+/* definiendo estilos de los párrafos */ 
+
+
+p {text-align: justify; font-size: 91%;}    /* justificar el texto del body */ 
+
+
+ul {text-align: justify;}  
+
+
+h5 { color: purple;  font-weight: bold; text-align: center; font-size: 18.5px;}
+
