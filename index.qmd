@@ -121,6 +121,7 @@ Primero un libro fantástico sobre Ciencia de Datos con R:
 
 <br>
 
+::: {.content-hidden}
 ## 6. Más cosas
 
 ### Entrega de trabajos
@@ -130,3 +131,4 @@ Durante el curso, sobre todo las primeras semanas, os mandaré tareas, algunas p
 - [Instrucciones para la entrega de las tareas de la evaluación continua](./mas-cosas/04_como-entregar-las-tareas-uploader.html){target="_blank"}
 
 <br><br>
+:::

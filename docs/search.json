@@ -47,12 +47,5 @@
     "title": "{{< var my_title_web >}}",
     "section": "5. Software",
     "text": "5. Software\n\n\n\n\n\n\n\nEn el curso usaremos principalmente 2 programas: R y RStudio.\nEs muy-muy recomendable venir al curso con tu propio ordenador (trae también un ratón)\nHay que instalarse versiones recientes de los 2 programas. Abajo tienes las instrucciones de instalación\n\n\n\n\n\nSoftware (instalación)\n\n\n\n\n\n\nInstalación de R y RStudio\n\n\n\n\n\n\nEn el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:\nHas de instalar los programas en este orden:\n\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo"
-  },
-  {
-    "objectID": "index.html#más-cosas",
-    "href": "index.html#más-cosas",
-    "title": "{{< var my_title_web >}}",
-    "section": "6. Más cosas",
-    "text": "6. Más cosas\n\nEntrega de trabajos\nDurante el curso, sobre todo las primeras semanas, os mandaré tareas, algunas para resolver en el aula y otras para resolver en casa. Estas tareas, generalmente, formarán parte de la evaluación continua. Abajo tenéis las instrucciones para la entrega de las tareas:\n\nInstrucciones para la entrega de las tareas de la evaluación continua"
   }
 ]
