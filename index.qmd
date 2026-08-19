@@ -65,7 +65,7 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 
 <br>
 
-## 4. Recursos adicionales
+## 3. Recursos adicionales
 
 Primero un libro fantástico sobre Ciencia de Datos con R: 
 
@@ -87,7 +87,7 @@ Primero un libro fantástico sobre Ciencia de Datos con R:
 
 
 
-## 5. Software
+## 4. Software
 
 ::: {.callout-note appearance="minimal" icon="false"}
 

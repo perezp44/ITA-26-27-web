@@ -11,10 +11,11 @@ project:
 
 website:
   #page-navigation: true
+  search: true
   title: "{{< var my_title_web >}}"
   favicon: imagenes/uv.jpeg
   site-url: "{{< var my_url_web >}}"
-  repo-url: "{{< var my_title_web >}}"
+  repo-url: "{{< var my_url_repo_github >}}"
   repo-actions: [edit, issue]
   repo-branch: main  #- edit page in Github https://github.com/quarto-dev/quarto-cli/discussions/4826
   repo-link-target: "_blank" #makes issue and edit links open in a new window/tab 
@@ -70,7 +71,7 @@ format:
     code-link: true
     link-external-newwindow: true
     
-lang: en  #- {es, en}
+lang: es  #- {es, en}
 language: _language-es.yml
 
 # freeze computational output

@@ -38,14 +38,14 @@
     "objectID": "index.html#recursos-adicionales",
     "href": "index.html#recursos-adicionales",
     "title": "{{< var my_title_web >}}",
-    "section": "4. Recursos adicionales",
-    "text": "4. Recursos adicionales\nPrimero un libro fantástico sobre Ciencia de Datos con R:\n\nR for Data Science (2ª ed). La primera edición está aquí, y la la 1ª ed. en castellano aquí\n\nAdicionalmente, 3 cursos (míos) sobre Ciencia de Datos:\n\nProgramación y manejo de datos con R\nCreación de documentos reproducibles con R y Quarto\nCurso de introducción a R, SFPIE"
+    "section": "3. Recursos adicionales",
+    "text": "3. Recursos adicionales\nPrimero un libro fantástico sobre Ciencia de Datos con R:\n\nR for Data Science (2ª ed). La primera edición está aquí, y la la 1ª ed. en castellano aquí\n\nAdicionalmente, 3 cursos (míos) sobre Ciencia de Datos:\n\nProgramación y manejo de datos con R\nCreación de documentos reproducibles con R y Quarto\nCurso de introducción a R, SFPIE"
   },
   {
     "objectID": "index.html#software",
     "href": "index.html#software",
     "title": "{{< var my_title_web >}}",
-    "section": "5. Software",
-    "text": "5. Software\n\n\n\n\n\n\n\nEn el curso usaremos principalmente 2 programas: R y RStudio.\nEs muy-muy recomendable venir al curso con tu propio ordenador (trae también un ratón)\nHay que instalarse versiones recientes de los 2 programas. Abajo tienes las instrucciones de instalación\n\n\n\n\n\nSoftware (instalación)\n\n\n\n\n\n\nInstalación de R y RStudio\n\n\n\n\n\n\nEn el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:\nHas de instalar los programas en este orden:\n\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo"
+    "section": "4. Software",
+    "text": "4. Software\n\n\n\n\n\n\n\nEn el curso usaremos principalmente 2 programas: R y RStudio.\nEs muy-muy recomendable venir al curso con tu propio ordenador (trae también un ratón)\nHay que instalarse versiones recientes de los 2 programas. Abajo tienes las instrucciones de instalación\n\n\n\n\n\nSoftware (instalación)\n\n\n\n\n\n\nInstalación de R y RStudio\n\n\n\n\n\n\nEn el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:\nHas de instalar los programas en este orden:\n\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo"
   }
 ]
