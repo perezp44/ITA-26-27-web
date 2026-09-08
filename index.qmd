@@ -11,6 +11,10 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 
 ## 1. Materiales
 
+#### Semana Cero
+
+- Slides de [presentación](https://www.uv.es/pjperez/slides/semana0.2026#/title-slide)  y de [Aplicaciones Web](https://www.uv.es/pjperez/slides/semana0.apps.2026#/title-slide)
+
 #### Bloque R
 
 - [Slides 01: Presentación](./slides/slides_01_presentacion.html){target="_blank"}
