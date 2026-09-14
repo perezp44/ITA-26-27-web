@@ -63,7 +63,10 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 
 - [Posit Cloud Project](https://posit.cloud/content/8706947)
 
+- [Escritorio remoto UV](https://escritorio.uv.es/){target="_blank"}
+
 -  {{< var my_aula_virtual >}}
+
 
 
 
