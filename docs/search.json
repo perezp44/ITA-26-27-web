@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "mas-cosas/04_como-entregar-las-tareas-uploader.html",
+    "href": "mas-cosas/04_como-entregar-las-tareas-uploader.html",
+    "title": "Entrega de los trabajos que formen parte de la evaluación continua",
+    "section": "",
+    "text": "Como sabéis, a lo largo del curso os mandaré tareas que formarán parte de la evaluación continua. Algunas de estas tareas serán para resolver en casa y otras se resolverán en el aula."
+  },
+  {
+    "objectID": "mas-cosas/04_como-entregar-las-tareas-uploader.html#footnotes",
+    "href": "mas-cosas/04_como-entregar-las-tareas-uploader.html#footnotes",
+    "title": "Entrega de los trabajos que formen parte de la evaluación continua",
+    "section": "Notas",
+    "text": "Notas\n\nIntentaré enviarlo el lunes por la mañana a primera hora (9:00), pero si me retraso un poco no pasa nada, piensa que solo es arrastar y subir un fichero a una dirección web.↩︎"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "{{< var my_title_web >}}",
@@ -32,20 +46,6 @@
     "href": "index.html#software",
     "title": "{{< var my_title_web >}}",
     "section": "4. Software",
-    "text": "4. Software\n\n\n\n\n\n\n\nEn el curso usaremos principalmente 2 programas: R y RStudio.\nEs muy-muy recomendable venir al curso con tu propio ordenador (trae también un ratón)\nHay que instalarse versiones recientes de los 2 programas. Abajo tienes las instrucciones de instalación\n\n\n\n\n\nSoftware (instalación)\n\n\n\n\n\n\nImportanteInstalación de R y RStudio\n\n\n\n\n\n\nEn el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:\nHas de instalar los programas en este orden:\n\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo"
-  },
-  {
-    "objectID": "mas-cosas/04_como-entregar-las-tareas-uploader.html",
-    "href": "mas-cosas/04_como-entregar-las-tareas-uploader.html",
-    "title": "Entrega de los trabajos que formen parte de la evaluación continua",
-    "section": "",
-    "text": "Como sabéis, a lo largo del curso os mandaré tareas que formarán parte de la evaluación continua. Algunas de estas tareas serán para resolver en casa y otras se resolverán en el aula."
-  },
-  {
-    "objectID": "mas-cosas/04_como-entregar-las-tareas-uploader.html#footnotes",
-    "href": "mas-cosas/04_como-entregar-las-tareas-uploader.html#footnotes",
-    "title": "Entrega de los trabajos que formen parte de la evaluación continua",
-    "section": "Notas",
-    "text": "Notas\n\n\nIntentaré enviarlo el lunes por la mañana a primera hora (9:00), pero si me retraso un poco no pasa nada, piensa que solo es arrastar y subir un fichero a una dirección web.↩︎"
+    "text": "4. Software\n\n\n\n\n\n\n\nEn el curso usaremos principalmente 2 programas: R y RStudio.\nEs muy-muy recomendable venir al curso con tu propio ordenador (trae también un ratón)\nHay que instalarse versiones recientes de los 2 programas. Abajo tienes las instrucciones de instalación\n\n\n\n\n\nSoftware (instalación)\n\n\n\n\n\n\nInstalación de R y RStudio\n\n\n\n\n\n\nEn el curso usaremos 2 programas: R y RStudio, así que hay que instalarlos:\nHas de instalar los programas en este orden:\n\n\nR: https://cran.r-project.org/\nRStudio: https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo"
   }
 ]

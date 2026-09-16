@@ -119,7 +119,7 @@ Primero un libro fantástico sobre Ciencia de Datos con R:
 
  1. R: <https://cran.r-project.org/>{target="_blank"}
 
- 2. RStudio: <https://posit.co/download/rstudio-desktop/>{target="_blank"}
+ 2. RStudio: <https://docs.posit.co/ide/user/#rstudio-ide-oss-downloads>{target="_blank"}
 
 
 - Para ello, solamente has de descargar las versiones de los instaladores adecuados para tu sistema operativo
