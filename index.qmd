@@ -31,7 +31,7 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 
 - [Slides 05: Data munging (C)](./slides/slides_05C_data-munging.html){target="_blank"}
 
-- [Slides 06: ggplot2](./slides/slides_06_ggplot2_Aa.html){target="_blank"}
+- [Slides 06: ggplot2](./slides/slides_06_ggplot2_A.html){target="_blank"}
 
 
 #### Bloque Excel
