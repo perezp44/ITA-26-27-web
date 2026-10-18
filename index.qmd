@@ -31,13 +31,19 @@ Web para alojar los materiales que usaremos en el [módulo práctico]{.underline
 
 - [Slides 05: Data munging (C)](./slides/slides_05C_data-munging.html){target="_blank"}
 
-- [Slides 06: ggplot2](./slides/slides_06_ggplot2_A.html){target="_blank"}
+- [Slides 06: ggplot2 (A)](./slides/slides_06_ggplot2_A.html){target="_blank"}
+
+- [Slides 06: ggplot2 (B)](./slides/slides_06_ggplot2_B.html){target="_blank"}
+
+
+- [Slides 07: tablas con `gt`](./slides/slides_07_tablas-gt.html){target="_blank"}
+
 
 
 #### Bloque Excel
 
 
-- [Slides (Intro a Excel)](./slides/slides_08_intro-a-excel.html){target="_blank"} 
+- [Slides (Intro a Excel)](./slides/slides_08_intro-a-excel_x.html){target="_blank"} 
 
 - [Datos xlsx para gráficos](./guiones/ejemplos_graficos.xlsx){target="_blank"}
 

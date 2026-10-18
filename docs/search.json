@@ -25,7 +25,7 @@
     "href": "index.html#materiales",
     "title": "{{< var my_title_web >}}",
     "section": "1. Materiales",
-    "text": "1. Materiales\n\nSemana Cero\n\nSlides de presentación y de Aplicaciones Web\n\n\n\nBloque R\n\nSlides 01: Presentación\nSlides 02: Primeros pasos\nSlides 03: R-base\nSlides 04: Importar y exportar datos\nSlides 05: Data munging (A)\nSlides 05: Data munging (B)\nSlides 05: Data munging (C)\nSlides 06: ggplot2\n\n\n\nBloque Excel\n\nSlides (Intro a Excel)\nDatos xlsx para gráficos\n\n\n\nGuiones\n\nGuión 01\n\n\n\nExámenes de muestra\n\nCurso 2024-25 (1ª convocatoria)\nCurso 2024-25 (2ª convocatoria)"
+    "text": "1. Materiales\n\nSemana Cero\n\nSlides de presentación y de Aplicaciones Web\n\n\n\nBloque R\n\nSlides 01: Presentación\nSlides 02: Primeros pasos\nSlides 03: R-base\nSlides 04: Importar y exportar datos\nSlides 05: Data munging (A)\nSlides 05: Data munging (B)\nSlides 05: Data munging (C)\nSlides 06: ggplot2 (A)\nSlides 06: ggplot2 (B)\nSlides 07: tablas con gt\n\n\n\nBloque Excel\n\nSlides (Intro a Excel)\nDatos xlsx para gráficos\n\n\n\nGuiones\n\nGuión 01\n\n\n\nExámenes de muestra\n\nCurso 2024-25 (1ª convocatoria)\nCurso 2024-25 (2ª convocatoria)"
   },
   {
     "objectID": "index.html#logística",
